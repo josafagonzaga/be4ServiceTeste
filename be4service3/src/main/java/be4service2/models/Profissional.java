@@ -8,7 +8,8 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
-
+//teste git
+//2
 
 @Entity
 @DiscriminatorValue(value="profissional")
