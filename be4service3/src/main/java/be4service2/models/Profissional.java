@@ -9,7 +9,8 @@ import javax.persistence.FetchType;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 //teste git
-//2
+//kkkkkkk
+
 
 @Entity
 @DiscriminatorValue(value="profissional")
