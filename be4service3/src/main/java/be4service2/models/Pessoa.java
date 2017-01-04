@@ -22,6 +22,7 @@ public abstract class Pessoa {
 	private String nome;
 	private String cpf;
 
+	
 	public Pessoa(Integer id, String nome) {
 		super();
 		this.id = id;
